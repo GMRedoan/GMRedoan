@@ -10,7 +10,7 @@
 ## 📫 Reach Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/GMRedoan" target="_blank">
+  <a href="https://www.linkedin.com/in/gm-redoan-41558a391/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://wa.me/01540404154" target="_blank">
