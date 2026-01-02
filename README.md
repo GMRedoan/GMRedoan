@@ -2,33 +2,58 @@
   <img src="https://github.com/GMRedoan/GMRedoan/raw/main/redoan.png" alt="My Photo" width="1200" height="400" style="border-radius:50%; margin-right:20px;" />
 </p>
 
-<!-- ===== HEADER / BANNER ===== -->
- 
+<!-- ===== TECH ICONS ===== -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,vscode" />
+</p>
 
-<h3 align="center">MERN Stack Developer</h3>
+## 📫 Reach Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/GMRedoan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://wa.me/01540404154" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp" />
+  </a>
+  <a href="https://redoan-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:redoangazi69@gmail.com@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
+<!-- ===== GITHUB STATS ===== -->
+<h2 align="center">📊 GitHub Stats</h2>
 
-## 👨‍💻 About Me
+<div align="center">
+  <!-- GitHub Stats -->
+  <img width="450" src="https://github-readme-stats-defcon27.vercel.app/api?username=GMRedoan&show_icons=true&line_height=21&theme=react" alt="GMRedoan Github Stats" />
+</div>
 
-- 🚀 MERN Stack Developer (**MongoDB, Express, React, Node.js**)
-- 💻 Building full-stack web applications
-- 🌱 Learning scalable backend & system design
-- ⚡ Passionate about clean code and UI/UX
+<div align="center" style="margin-top:20px;">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=GMRedoan&style=for-the-badge" alt="Profile Views" />
+</div>
 
 ---
 
+<!-- ===== TOP LANGUAGES ===== -->
+<h2 align="center">💻 Top Languages</h2>
+
+<div align="center">
+  <!-- Top Languages -->
+  <img width="450" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=GMRedoan&layout=compact&theme=react" alt="Top Languages" />
+</div>
+
+ 
 ## 🧰 Tech Stack
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,nextjs" />
 </p>
 
 ### Backend
@@ -38,35 +63,23 @@
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
- ## 📊 GitHub Stats
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GM_Redoan&show_icons=true&theme=react&cache_seconds=0" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GM_Redoan&layout=compact&theme=react" />
-</p>
-
----
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=GMRedoan)
+- 🚀 MERN Stack Developer (**MongoDB, Express, React, Node.js**)  
+- 💻 Building full-stack web applications  
+- 🌱 Learning scalable backend & system design  
+- ⚡ Passionate about clean code and UI/UX  
 
 ---
 
 ## 📌 Featured Projects
-> (These will appear once you add real projects)
 
-- 🔹 MERN Authentication System
-- 🔹 REST API with Node & MongoDB
+- 🔹 MERN Authentication System  
+- 🔹 REST API with Node & MongoDB  
 - 🔹 React Dashboard
 
----
-
- 
