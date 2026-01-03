@@ -1,6 +1,10 @@
- <p align="center">
-  <img src="https://github.com/GMRedoan/GMRedoan/raw/main/redoan.png" alt="My Photo" width="1200" height="400" style="border-radius:50%; margin-right:20px;" />
+   <p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:22C55E&height=280&section=header&text=GM%20REDOAN&fontSize=68&fontAlignY=40&fontColor=FFFFFF&desc=MERN%20Stack%20Developer&descSize=24&descAlignY=58"
+    alt="GM Redoan GitHub Banner"
+  />
 </p>
+
 
 <!-- ===== TECH ICONS ===== -->
 <p align="center">
