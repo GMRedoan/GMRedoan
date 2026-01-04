@@ -14,7 +14,7 @@
 ## 📫 Reach Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gm-redoan-41558a391/" target="_blank">
+  <a href="https://www.linkedin.com/in/gm-redoan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=01764108600" target="_blank">
