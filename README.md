@@ -74,16 +74,18 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 MERN Stack Developer (**MongoDB, Express, React, Node.js**)  
-- 💻 Building full-stack web applications  
-- 🌱 Learning scalable backend & system design  
-- ⚡ Passionate about clean code and UI/UX  
+- 🚀 MERN Stack Developer & Hard worker 
+- 💻 Building full-stack web applications with responsive design
+- 🌱 Provide Scalable Backend Services & user interfaces 
+- ⚡ Passionate about clean code and better UI/UX design
 
 ---
 
-## 📌 Featured Projects
+## 📌 Current Activities
 
-- 🔹 MERN Authentication System  
-- 🔹 REST API with Node & MongoDB  
-- 🔹 React Dashboard
+- 🔹 I am working on a Portfolio Website 
+- 🔹 Exploring Python & Laravel 
+- 🔹 Learning more well structured coding
 
+ 
+  
