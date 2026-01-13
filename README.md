@@ -20,7 +20,7 @@
   <a href="https://api.whatsapp.com/send?phone=01764108600" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp" />
   </a>
-  <a href="https://redoan-portfolio-2026.netlify.app/" target="_blank">
+  <a href="https://redoan-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=redoangazi69@gmail.com" target="_blank">
