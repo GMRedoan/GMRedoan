@@ -1,6 +1,6 @@
    <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:22C55E&height=280&section=header&text=GM%20REDOAN&fontSize=68&fontAlignY=40&fontColor=FFFFFF&desc=MERN%20Stack%20Developer&descSize=24&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:22C55E&height=280&section=header&text=GM%20REDOAN&fontSize=68&fontAlignY=40&fontColor=FFFFFF&desc=Jr.%20Full%20Stack%20Developer&descSize=24&descAlignY=58"
     alt="GM Redoan GitHub Banner"
   />
 </p>
@@ -8,7 +8,7 @@
 
 <!-- ===== TECH ICONS ===== -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,postgres,postman,vscode" />
 </p>
 
 ## 📫 Reach Me
@@ -57,12 +57,12 @@
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,nextjs,ts" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
 </p>
 
 ### Tools
@@ -74,18 +74,19 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 MERN Stack Developer & Hard worker 
+- 🚀 Jr. Full Stack Developer | Frontend Developer | MERN Stack Developer 
 - 💻 Building full-stack web applications with responsive design
-- 🌱 Provide Scalable Backend Services & user interfaces 
-- ⚡ Passionate about clean code and better UI/UX design
+- 🌱 Provide Scalable & Optimized Code
+- ⚡ Passionate about clean code and best UI design for client
 
 ---
 
 ## 📌 Current Activities
 
-- 🔹 I am working on a Portfolio Website 
-- 🔹 Exploring Python & Laravel 
-- 🔹 Learning more well structured coding
+- 🔹 Internship at Rise Together as a Frontend Developer
+- 🔹 I am also working on a Portfolio & Full Stack Website
+- 🔹 Exploring Postgress & Database Design
+- 🔹 Learning advance coding and technologies 
 
  
   
