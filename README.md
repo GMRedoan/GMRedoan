@@ -8,7 +8,7 @@
 
 <!-- ===== TECH ICONS ===== -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,postgres,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,js,express,ts,postgres,prisma" />
 </p>
 
 ## 📫 Reach Me
@@ -62,7 +62,7 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" />
 </p>
 
 ### Tools
