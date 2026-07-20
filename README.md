@@ -11,22 +11,19 @@
   <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,js,express,ts,postgres,prisma" />
 </p>
 
-## 📫 Reach Me
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gm-redoan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=01764108600" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp" />
-  </a>
-  <a href="https://gm-redoan-portfolio-2.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.gmredoan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+## 👨‍💻 About Me
+- 🚀 Jr. Full-Stack Developer | MERN Stack Developer
+
+- 🎯 Leadership & Problem-Solving
+- 💻 Full-Stack Development & UI/UX Design
+- 💬 Real-Time Chat System Development
+- 💳 Stripe Payment Gateway Integration
+
+- 🌱 Building scalable and responsive web applications
+- ✨ Writing clean, maintainable, and optimized code
+- ⚡ Passionate about delivering exceptional user experiences
 
 ---
 <!-- ===== GITHUB STATS ===== -->
@@ -70,20 +67,23 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
----
 
-## 👨‍💻 About Me
-- 🚀 Jr. Full-Stack Developer | MERN Stack Developer
+## 📫 Reach Me
 
-- 🎯 Leadership & Problem-Solving
-- 💻 Full-Stack Development & UI/UX Design
-- 💬 Real-Time Chat System Development
-- 💳 Stripe Payment Gateway Integration
-
-- 🌱 Building scalable and responsive web applications
-- ✨ Writing clean, maintainable, and optimized code
-- ⚡ Passionate about delivering exceptional user experiences
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/gm-redoan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=01764108600" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp" />
+  </a>
+  <a href="https://gm-redoan-portfolio-2.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.gmredoan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
