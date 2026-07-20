@@ -20,7 +20,7 @@
   <a href="https://api.whatsapp.com/send?phone=01764108600" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp" />
   </a>
-  <a href="https://redoan-portfolio.vercel.app" target="_blank">
+  <a href="https://gm-redoan-portfolio-2.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.gmredoan@gmail.com" target="_blank">
@@ -73,20 +73,26 @@
 ---
 
 ## 👨‍💻 About Me
+- 🚀 Jr. Full-Stack Developer | MERN Stack Developer
 
-- 🚀 Jr. Full Stack Developer | Frontend Developer | MERN Stack Developer 
-- 💻 Building full-stack web applications with responsive design
-- 🌱 Provide Scalable & Optimized Code
-- ⚡ Passionate about clean code and best UI design for client
+- 🎯 Leadership & Problem-Solving
+- 💻 Full-Stack Development & UI/UX Design
+- 💬 Real-Time Chat System Development
+- 💳 Stripe Payment Gateway Integration
+
+- 🌱 Building scalable and responsive web applications
+- ✨ Writing clean, maintainable, and optimized code
+- ⚡ Passionate about delivering exceptional user experiences
+
 
 ---
 
 ## 📌 Current Activities
 
-- 🔹 Internship at Rise Together as a Frontend Developer
-- 🔹 I am also working on a Portfolio & Full Stack Website
-- 🔹 Exploring Postgress & Database Design
-- 🔹 Learning advance coding and technologies 
+- 🔹 Jr. Frontend Developer at Rise Together
+- 🔹 I am also working on a SaaS Project & Projet manager
+- 🔹 Exploring SEO optimization & Database Design
+- 🔹 Learning advance scalable coding & latest technologies 
 
  
   
